@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic photograph inside an ancient stone monastery corridor stretching deep into the far distance. At the very far end, a single burning torch is mounted on the wall, casting a warm amber glow. The stone arches and floor nearest the torch are brilliantly lit with sharp vivid shadows. Each successive Gothic archway moving toward the camera receives progressively less light — the third arch dimmer, the sixth arch dimmer still — until the foreground arch closest to the viewer is almost entirely swallowed in deep darkness. A solitary hooded monk sits cross-legged on the flagstone floor at the near dark end, completely lost in shadow, nothing illuminating him. The torch is the only light source in the scene. Stone walls, vaulted arches, worn flagstone floor, cold blue-black shadows in the foreground. Shot on 35mm film, natural candlelight, ultra-photorealistic. No text, no labels, no diagrams, no symbols, no floating elements whatsoever.",
+  "model": "nano banana",
+  "concept": "vanishing gradients",
+  "metaphor": "Torch at corridor's far end lights nearby arches vividly; each successive arch toward the camera fades to total darkness — gradient magnitude vanishing before reaching the earliest layers."
+}

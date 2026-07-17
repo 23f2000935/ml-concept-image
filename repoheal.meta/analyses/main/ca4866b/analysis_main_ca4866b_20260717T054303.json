@@ -1,0 +1,50 @@
+{
+  "analysis_id": "main_ca4866b_20260717T054303",
+  "repository_snapshot_id": "23f2000935_ml-concept-image_main_ca4866b",
+  "repository": "23f2000935/ml-concept-image",
+  "branch": "main",
+  "commit_sha": "ca4866bc06ee13c0ee5004d779ddc69dbb45a974",
+  "short_commit": "ca4866b",
+  "analysis_timestamp": "2026-07-17T05:43:03.841212+00:00",
+  "analysis_version": "1.0",
+  "schema_version": "2.0",
+  "analysis": {
+    "imports": {
+      "files": {},
+      "summary": {
+        "total_files": 0,
+        "total_python_files": 0,
+        "total_notebooks": 0,
+        "total_imports": 0,
+        "total_local_imports": 0
+      }
+    },
+    "semantic_graph": {
+      "files": {},
+      "summary": {
+        "total_files": 0,
+        "total_functions": 0,
+        "total_classes": 0,
+        "total_calls": 0,
+        "total_api_calls": 0
+      }
+    },
+    "dependencies": {
+      "declared": {},
+      "count": 0
+    },
+    "dependency_graph": {},
+    "fingerprints": {},
+    "issues": {
+      "missing_dependencies": [],
+      "unused_dependencies": [],
+      "missing_count": 0,
+      "unused_count": 0
+    },
+    "branch": "main",
+    "commit_sha": "ca4866bc06ee13c0ee5004d779ddc69dbb45a974",
+    "analysis_id": "main_ca4866b_20260717T054303",
+    "repository_snapshot_id": "23f2000935_ml-concept-image_main_ca4866b"
+  },
+  "graph_path": null
+}

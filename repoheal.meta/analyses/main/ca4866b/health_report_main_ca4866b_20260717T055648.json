@@ -1,0 +1,39 @@
+{
+  "migration_id": "mig_main_ca4866b_20260717T055648",
+  "analysis_id": "main_ca4866b_20260717T055648",
+  "repository_snapshot_id": "23f2000935_ml-concept-image_main_ca4866b",
+  "branch": "main",
+  "generated_from_commit": "ca4866bc06ee13c0ee5004d779ddc69dbb45a974",
+  "generated_at": "2026-07-17T05:56:58.467443+00:00",
+  "health_score": 100,
+  "risk_score": 0,
+  "overall_risk_level": "low",
+  "intelligence_warnings": [],
+  "report": {
+    "repository": "23f2000935/ml-concept-image",
+    "generated_at": "2026-07-17T05:56:57.333660+00:00",
+    "overall_health_score": 100,
+    "overall_risk_score": 0,
+    "overall_risk_level": "low",
+    "migration_risk_score": 0,
+    "migration_risk_level": "low",
+    "intelligence_warnings": [],
+    "migration_intelligence_status": "success",
+    "intelligence_error": "",
+    "intelligence_source": "unknown",
+    "executive_summary": {
+      "overall_health_score": 100,
+      "critical_findings_count": 0,
+      "deprecated_count": 0,
+      "breaking_count": 0
+    },
+    "dependency_inventory": [],
+    "deprecated_apis": [],
+    "breaking_changes": [],
+    "migration_paths": [],
+    "impact_reports": [],
+    "risk_assessment": [],
+    "recommended_actions": [],
+    "compatibility_shims": ""
+  }
+}

@@ -8,17 +8,17 @@
   "last_analysis": null,
   "last_health_refresh": "2026-07-17T05:43:21.560010+00:00",
   "last_commit_analyzed": null,
-  "latest_analysis": "repoheal.meta/analyses/main/ca4866b/analysis_main_ca4866b_20260717T054303.json",
+  "latest_analysis": "repoheal.meta/analyses/main/ca4866b/analysis_main_ca4866b_20260717T055648.json",
   "latest_report": null,
   "latest_migration": "repoheal.meta/analyses/main/ca4866b/migration_report_main_ca4866b_20260717T054303.md",
   "analyses": [
     {
-      "analysis_id": "main_ca4866b_20260717T054303",
+      "analysis_id": "main_ca4866b_20260717T055648",
       "snapshot_id": "23f2000935_ml-concept-image_main_ca4866b",
       "branch": "main",
       "commit": "ca4866bc06ee13c0ee5004d779ddc69dbb45a974",
-      "timestamp": "2026-07-17T05:43:03.841212+00:00",
-      "path": "repoheal.meta/analyses/main/ca4866b/analysis_main_ca4866b_20260717T054303.json"
+      "timestamp": "2026-07-17T05:56:48.430626+00:00",
+      "path": "repoheal.meta/analyses/main/ca4866b/analysis_main_ca4866b_20260717T055648.json"
     }
   ],
   "health_reports": [
@@ -42,13 +42,13 @@
   "default_branch": "main",
   "current_head": "ca4866bc06ee13c0ee5004d779ddc69dbb45a974",
   "last_analyzed_commit": "ca4866bc06ee13c0ee5004d779ddc69dbb45a974",
-  "latest_analysis_id": "main_ca4866b_20260717T054303",
-  "latest_analysis_at": "2026-07-17T05:43:03.841212+00:00",
+  "latest_analysis_id": "main_ca4866b_20260717T055648",
+  "latest_analysis_at": "2026-07-17T05:56:48.430626+00:00",
   "latest_files": {
     "analysis": "repoheal.meta/snapshots/latest_analysis.json",
-    "analysis_record": "repoheal.meta/analyses/main/ca4866b/analysis_main_ca4866b_20260717T054303.json",
+    "analysis_record": "repoheal.meta/analyses/main/ca4866b/analysis_main_ca4866b_20260717T055648.json",
     "graph": "repoheal.meta/snapshots/latest_graph.json",
-    "graph_snapshot": "repoheal.meta/analyses/main/ca4866b/dependency_graph_main_ca4866b_20260717T054303.json",
+    "graph_snapshot": "repoheal.meta/analyses/main/ca4866b/dependency_graph_main_ca4866b_20260717T055648.json",
     "packages": "repoheal.meta/snapshots/latest_packages.json",
     "imports": "repoheal.meta/snapshots/latest_imports.json",
     "dependency_risk_report": "repoheal.meta/reports/dependency_risk_report.json"
